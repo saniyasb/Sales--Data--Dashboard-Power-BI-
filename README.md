@@ -1,4 +1,4 @@
-<img width="1207" height="673" alt="dashboard" src="https://github.com/user-attachments/assets/e7e14c49-1afe-4608-86fc-974c55bb24e6" /># 📊 Sales Data Dashboard (Power BI)
+# 📊 Sales Data Dashboard (Power BI)
 
 ## 📌 Project Overview
 This project is an **interactive Power BI dashboard** designed to analyze and visualize sales performance.  
